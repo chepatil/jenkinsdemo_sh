@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "This is a version 1.0"
+echo "This is a version 1.1"
